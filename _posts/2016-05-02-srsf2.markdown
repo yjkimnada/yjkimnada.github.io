@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Modulation of splicing catalysis for therapeutic targeting of leukemia with mutations in genes encoding spliceosomal proteins"
+date:   2016-05-02
+image: /images/srsf2.png
+categories: old_research
+author: "Young Joon Kim"
+authors: "Stanley Lee, et al. <strong>(Co-author)</strong>"
+venue: "Nature Medicine"
+paper: https://pubmed.ncbi.nlm.nih.gov/27135740/
+---
