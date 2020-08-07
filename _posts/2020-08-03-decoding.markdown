@@ -6,6 +6,5 @@ categories: research
 author: "Young Joon Kim"
 authors: "<strong>Young Joon Kim</strong>, et al."
 venue: "First author manuscript in preparation for journal submission."
-image: ../images/yass.png
 ---
 Built the first, state-of-the-art nonlinear retinal ganglion cell decoder for natural scene images via neural networks.
