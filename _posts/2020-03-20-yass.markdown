@@ -6,5 +6,6 @@ categories: research
 author: "Young Joon Kim"
 authors: "Peter J. Lee, et al. <strong>(Co-author)</strong>"
 venue: "Manuscript in preparation for journal submission."
+arxiv: https://www.biorxiv.org/content/10.1101/2020.03.18.997924v1.full
 ---
 Validated novel spike sorting pipeline by decoding spikes from primate retinal ganglion cells.
