@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "YASS: Yet Another Spike Sorter applied to large-scale multi-electrode array recordings in primate retina"
+date: 2020-08-03
+categories: research
+author: "Young Joon Kim"
+authors: "Peter J. Lee, et al. <strong>(Co-author)</strong>"
+venue: "Manuscript in preparation for journal submission."
+---
+Validated novel spike sorting pipeline by decoding spikes from primate retinal ganglion cells.

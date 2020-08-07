@@ -4,7 +4,7 @@ title:  "Nonlinear decoding of natural scenes from primate retinal ganglion resp
 date: 2020-08-03
 categories: research
 author: "Young Joon Kim"
-authors: "<strong>Leonid Keselman</strong>, et al."
+authors: "<strong>Young Joon Kim</strong>, et al."
 venue: "First author manuscript in preparation for journal submission."
 ---
 Built the first, state-of-the-art nonlinear retinal ganglion cell decoder for natural scene images via neural networks
